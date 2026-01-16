@@ -1,4 +1,13 @@
+<div align="center">
+          
 # Nano Semic
+</div>
+
+<div align="center">
+<img src="https://github.com/nanosemic/nanosemic/blob/main/images/Nano_Semic.png" width="300" height="300" alt="Nano Semic Logo" />
+</div>
+
+
 
 ## About Us
 Nano Semic Pvt. Ltd. is one of the brand new members in the discrete semiconductor innovation space. 
@@ -11,6 +20,8 @@ We are a semiconductor products and services company. We offer a range of soluti
 
 ## Mission
 To develop next generation sensing solutions and make sensor technology accessible, reliable, and affordable for everyone. Also play a leading role in enabling advanced semiconductor ecosystem through expert technical consultancy services.
+
+---
 
 # Meet the Core Team
 
